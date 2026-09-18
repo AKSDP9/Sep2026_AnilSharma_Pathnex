@@ -1,0 +1,4 @@
+# 3 hours morning class of argo cd
+# 3 hours practice argo cd with eks cluster
+# 1 hours evening class
+# 1 hours introduction video and english practice
