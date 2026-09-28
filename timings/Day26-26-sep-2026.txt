@@ -1,0 +1,4 @@
+# 3 hours morning class about mointoring and logging and trace
+# 3 hours practice of logging tools like ELK and others parts
+# 1 hours evening class
+# 1 hours english communication practice
